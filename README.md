@@ -1,9 +1,6 @@
 # Titanic-Spaceship-Kaggle-Competition-End-To-End-Project
 
-
-
-Predicting Spaceship Titanic Passenger's Transport with Machine Learning
-Objective
+# Objective
 The main goal of this project is to develop a robust machine-learning model capable of accurately predicting passenger transport based on various features such as age, gender, class, fare, etc.
 
 # Methodology
