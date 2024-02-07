@@ -4,12 +4,9 @@
 
 Predicting Spaceship Titanic Passenger's Transport with Machine Learning
 Objective
-The main goal of this project is to develop a robust machine learning model capable of accurately predicting passenger transport based on various features such as age, gender, class, fare, etc.
+The main goal of this project is to develop a robust machine-learning model capable of accurately predicting passenger transport based on various features such as age, gender, class, fare, etc.
 
-Kaggle Notebook Link
-Spaceship Titanic Competition - End-to-End Project
-
-Methodology
+# Methodology
 The project methodology involves the following steps:
 
 Exploring the dataset and performing data cleaning, feature engineering, and visualization.
@@ -20,5 +17,5 @@ Selecting the best model and making predictions on a test set.
 Expected Results
 We anticipate achieving an accuracy of at least 80% on the test set, indicating the reliability of our machine learning model in predicting Titanic passenger transport. Additionally, we will analyze feature importance to gain insights into the factors influencing passenger survival.
 
-Conclusion
+# Conclusion
 This project underscores the effectiveness of machine learning in analyzing historical data and predicting outcomes. Furthermore, it pays tribute to the tragedy of the Titanic while honoring the memories of the passengers and crew who lost their lives.
